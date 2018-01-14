@@ -1,0 +1,14 @@
+{
+  "objc_msgSend": "objc_msgSend",
+  "NSLog": "NSLog",
+  "objc_msgSendSuper2": "objc_msgSendSuper2",
+  "sel_registerName": "sel_registerName",
+  "class_replaceMethod": "class_replaceMethod",
+  "objc_getClass": "objc_getClass",
+  "task_get_exception_ports": "task_get_exception_ports",
+  "getpid": "getpid",
+  "mach_task_self":"mach_task_self",
+  "isatty": "isatty",
+  "ioctl": "ioctl",
+  "syscall": "syscall"
+}
